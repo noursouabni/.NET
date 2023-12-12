@@ -1,0 +1,7 @@
+Abbas;Mohamed;H;12/02/1971;OUI;+21628010203;Prothèses#
+Abdelli;Rayan;H;23/04/2001;NON;+21692744855;Caries#
+Abdennour;Karima;F;25/03/1978;OUI;+21623121665;Détartrage#
+Abderrahmane;Leïla;F;19/02/1966;OUI;+21652166618;Extraction#
+Achour;Yasmine;F;18/01/2003;OUI;+21658861423;Prothèses#
+Abdallah;Mehdi;H;21/11/1999;NON;+21621216523;Caries#
+Ahmed;Ali;H;04/11/1997;NON;+21654441269;Détartrage#
